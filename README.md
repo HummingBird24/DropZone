@@ -8,3 +8,5 @@ Resources Used:
 - www.stackoverflow.com
 - www.raywenderlich.com
 - www.icons8.com
+
+NOTE: The .png images have to be dragged to the images folder of the xcode project. Periods within the .png image names have to be replaced with spaces.
