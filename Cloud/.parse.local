@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "DropZones": {
+      "applicationId": "M3yxJkfn0i2aE5uRTxolckPjpmzyEvNyZERdsqYL"
+    },
+    "_default": {
+      "link": "DropZones"
+    }
+  }
+}
